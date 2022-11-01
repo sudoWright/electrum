@@ -120,7 +120,7 @@ noiseprotocol==0.3.1 \
 pip==21.0.1 \
     --hash=sha256:37fd50e056e2aed635dec96594606f0286640489b0db0ce7607f7e51890372d5 \
     --hash=sha256:99bbde183ec5ec037318e774b0d8ae0a64352fe53b2c7fd630be1d07e94f41e5
-protobuf==3.15.6 \
+protobuf==3.18.3 \
     --hash=sha256:0f2da2fcc4102b6c3b57f03c9d8d5e37c63f8bc74deaa6cb54e0cc4524a77247 \
     --hash=sha256:1655fc0ba7402560d749de13edbfca1ac45d1753d8f4e5292989f18f5a00c215 \
     --hash=sha256:1771ef20e88759c4d81db213e89b7a1fc53937968e12af6603c658ee4bcbfa38 \
@@ -168,7 +168,7 @@ typing-extensions==3.7.4.3 \
     --hash=sha256:7cb407020f00f7bfc3cb3e7881628838e69d8f3fcab2f64742a5e76b2f841918 \
     --hash=sha256:99d4073b617d30288f569d3f13d2bd7548c3a7e4c8de87db09a9d29bb3a4a60c \
     --hash=sha256:dafc7639cde7f1b6e1acc0f457842a83e722ccca8eef5270af2d74792619a89f
-urllib3==1.26.3 \
+urllib3==1.26.5 \
     --hash=sha256:1b465e494e3e0d8939b50680403e3aedaa2bc434b7d5af64dfd3c958d7f5ae80 \
     --hash=sha256:de3eedaad74a2683334e282005cd8d7f22f4d55fa690a2a1020a416cb0a47e73
 wheel==0.36.2 \
