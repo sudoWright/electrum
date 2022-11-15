@@ -47,7 +47,7 @@ pyinstaller==4.2 \
 pyinstaller-hooks-contrib==2021.1 \
     --hash=sha256:27558072021857d89524c42136feaa2ffe4f003f1bdf0278f9b24f6902c1759c \
     --hash=sha256:892310e6363655838485ee748bf1c5e5cade7963686d9af8650ee218a3e0b031
-setuptools==49.6.0 \
+setuptools==65.5.1 \
     --hash=sha256:46bd862894ed22c2edff033c758c2dc026324788d758e96788e8f7c11f4e9707 \
     --hash=sha256:4dd5bb0a0a0cff77b46ca5dd3a84857ee48c83e8223886b556613c724994073f
 typing-extensions==3.7.4.3 \
